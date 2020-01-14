@@ -1,2 +1,0 @@
-# kristoferjoseph
-Begin app
